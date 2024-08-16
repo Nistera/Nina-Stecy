@@ -1,0 +1,22 @@
+body {
+    font-family: ;
+}
+
+
+
+span{
+    display: inline;
+}
+/*div {
+display: flex
+gap: 16px
+}*/
+
+.about {
+    background-color: blue;
+    color: #ffffff;
+}
+
+.card {
+    border: 5px solid ;
+}
